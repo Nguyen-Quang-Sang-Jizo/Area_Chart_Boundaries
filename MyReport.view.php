@@ -63,8 +63,8 @@
     $fill = [false, 'origin', 'start', 'end',];
 
     $data = [
-        ['month' => 'Feb', 'Dataset' => $randomNumbers[0]],
-        ['month' => 'Jan', 'Dataset' => $randomNumbers[1]],
+        ['month' => 'Jan', 'Dataset' => $randomNumbers[0]],
+        ['month' => 'Feb', 'Dataset' => $randomNumbers[1]],
         ['month' => 'Mar', 'Dataset' => $randomNumbers[2]],
         ['month' => 'Apr', 'Dataset' => $randomNumbers[3]],
         ['month' => 'May', 'Dataset' => $randomNumbers[4]],
